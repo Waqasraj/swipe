@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="EditTextBasicStyle" parent="">
+        <item name="android:background">@drawable/selector_edittext</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="hintTextColor">@color/txtColorGray</item>
+        <item name="android:textSize">@dimen/dp_16</item>
+    </style>
+
+</resources>
